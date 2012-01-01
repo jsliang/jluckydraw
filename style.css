@@ -39,9 +39,10 @@ a:hover { color: #cc3366; }
 #switch {
     font-family: Microsoft JhengHei,Lucida Grande,Lucida Sans,Arial,sans-serif;
     font-size: 2em;
+    font-weight: normal;
     height: 2.4em;
-    margin: 0.8em;
-    width: 4.5em;
+    margin-top: 0.4em;
+    width: 100%;
 }
 
 #draw {

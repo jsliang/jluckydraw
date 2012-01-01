@@ -38,6 +38,7 @@ $(document).ready(function() {
         $("#name_list").data('start_idx', idx_2);
     }
     
+    $("#switch").button();
     $("#switch").data("status", "stopped");
     $("#switch").data("origin_text", $("#switch").text());
     $("#switch").click(function(){
