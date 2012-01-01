@@ -48,25 +48,17 @@ a:hover { color: #cc3366; }
     font-size: 2em;
 }
 
-#draw-1 {
+.draw-a {
     color: #cccccc;
     font-size: 0.6em;
 }
-#draw-2 {
+.draw-b {
     color: #999999;
     font-size: 0.8em;
 }
-#draw-3 {
+.draw-c {
     border: 1px solid #000000;
     font-size: 1em;
-}
-#draw-4 {
-    color: #999999;
-    font-size: 0.8em;
-}
-#draw-5 {
-    color: #cccccc;
-    font-size: 0.6em;
 }
 
 #footer {

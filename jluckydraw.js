@@ -29,11 +29,11 @@ $(document).ready(function() {
         var idx_3 = (start_idx + 2) % names.length;
         var idx_4 = (start_idx + 3) % names.length;
         var idx_5 = (start_idx + 4) % names.length;
-        $("#draw-1").text(names[idx_1]);
-        $("#draw-2").text(names[idx_2]);
-        $("#draw-3").text(names[idx_3]);
-        $("#draw-4").text(names[idx_4]);
-        $("#draw-5").text(names[idx_5]);
+        $("#draw-1 .text").text(names[idx_1]);
+        $("#draw-2 .text").text(names[idx_2]);
+        $("#draw-3 .text").text(names[idx_3]);
+        $("#draw-4 .text").text(names[idx_4]);
+        $("#draw-5 .text").text(names[idx_5]);
         
         $("#name_list").data('start_idx', idx_2);
     }
