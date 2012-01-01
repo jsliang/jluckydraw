@@ -17,13 +17,13 @@ a:hover { color: #cc3366; }
     width: 23em;
 }
 
-#left_pane {
+#list_pane {
     float: left;
     height: 18em;
     width: 10em;
 }
 
-#right_pane {
+#draw_pane {
     float: right;
     height: 18em;
     width: 13em;
